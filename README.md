@@ -4,7 +4,7 @@ Hi there! I'm a recent graduate in Computer Science with a passion for software 
 
 # Languages 
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+[![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ddomene&show_icons=true&theme=gotham" alt="ddomene" />
