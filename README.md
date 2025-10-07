@@ -1,6 +1,8 @@
 # ¡Hi! I´am Diego :floppy_disk:
 
-Hi there! I'm a recent graduate in Computer Science with a passion for software development and technology. During my studies, I gained experience in various programming languages and technologies, including Java, Python, SQL, and web development.
+💡 I'm a **Data Engineer** with strong experience in **Big Data**, **ETL processes**, and **data analytics solutions**.  
+For the past three years, I’ve been working on building and optimizing data pipelines and analytical systems that support large-scale operations in complex environments.
+
 
 # Languages and tools
 
