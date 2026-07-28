@@ -19,8 +19,3 @@ For the past three years, I’ve been working on building and optimizing data pi
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=excel,word,powerpoint,outlook,vscode,idea,docker)
 
 ⭐ If you find my work interesting, feel free to star my repositories!
-
-
-# :fire: Github stats 
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ddomene&show_icons=true&theme=gotham" alt="ddomene" />
